@@ -4,7 +4,7 @@
  
 Clonar repositorio donde esta el docker compose que tiene los contenedores con las imagenes de hadoop, de yarn y de hive
 ```bash
-git clone https://github.com/PabloHerreraTajamar/Hadoop-hive
+git clone https://github.com/MarioSantanaTajamar/Hadoop-Hive
 ```
 Levantar contenedores
 ```bash
